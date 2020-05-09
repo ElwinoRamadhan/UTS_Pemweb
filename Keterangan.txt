@@ -1,0 +1,7 @@
+Keterangan Class:
+1. Master_Cashier digunakan oleh Admin untuk mengelola
+   cashier (menambah, mengedit, menhapus)
+2. Master_Stand digunakan oleh Admin untuk mengelola
+   Stand (menambah, mengedit, menghapus)
+3. Master_Table digunakan oleh admin untuk mengelola
+   Meja (menambah, mengedit, menghapus)
